@@ -1,3 +1,3 @@
 
 <h1>Text Utils</h1>
-<ul>t</ul>
+<ul><p>text utils is a application by which we can easily edit our text</p></ul>
