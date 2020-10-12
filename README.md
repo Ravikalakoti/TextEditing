@@ -1,5 +1,6 @@
 
 <h1>Text Utils</h1>
-<ul><p>text utils is a application by which we can easily edit our text</p></ul>
+<ol><p>text utils is a application by which we can easily edit our text</p></ol>
 
-<h>How to Use TextEdit</h>
+<h1>How to Use TextEdit</h1>
+<ol>first run this app on your pycharm or any python idle.</ol>
